@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\Repositorios Locales\TP_Primera_Entrega\Commit.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Repositorios Locales\TP_Primera_Entrega\Context.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Repositorios Locales\TP_Primera_Entrega\DataTime.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Repositorios Locales\TP_Primera_Entrega\User.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Commit.h" />
+    <ClInclude Include="Context.h" />
+    <ClInclude Include="DataTime.h" />
+    <ClInclude Include="User.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
